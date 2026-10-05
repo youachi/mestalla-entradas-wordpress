@@ -1,0 +1,12 @@
+wp-config.php
+**/wp-config.php
+*.sql
+*.sql.gz
+*.log
+*.env
+.env*
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/ai1wm-backups/
+wp-content/backup*/
