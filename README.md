@@ -12,10 +12,13 @@ Tema y complemento propios para la instalación local de WordPress en XAMPP.
 
 ## Usuarios y contraseñas
 admin_aula
+
 =9t)Yz)*=;dP1-k/Nbiw
 
 docente
+
 EhV`+|!l`(0)*=KcHf!L
 
 alumno
+
 Pq^8Ci(*r2^{EqC]8*O/
