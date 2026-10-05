@@ -1,0 +1,9 @@
+/*
+Theme Name: Mestalla Naranja
+Theme URI: http://localhost/wordpress
+Author: OpenAI
+Description: Experiencia local de venta de entradas inspirada en Valencia CF.
+Version: 1.0.0
+Text Domain: mestalla-naranja
+*/
+#loginform p{margin:13px 0}#loginform label{font-size:12px;font-weight:800}#loginform input[type=checkbox]{width:auto;margin-right:6px}#loginform .login-remember{font-weight:600}#loginform .login-submit{margin-top:19px}#loginform input[type=submit]{width:auto;border:0;border-radius:6px;padding:13px 18px;background:var(--orange);color:white;font-weight:800;cursor:pointer}
