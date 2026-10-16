@@ -1,10 +1,5 @@
 <?php
-/*
-Plugin Name: Mestalla Entradas
-Description: Acceso de aficionado y reservas locales de entradas para Mestalla.
-Version: 1.0.0
-Author: Mestalla Entradas
-*/
+
 if (!defined('ABSPATH')) exit;
 
 function mestalla_events(){return [
