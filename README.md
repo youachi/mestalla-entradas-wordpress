@@ -1,6 +1,5 @@
-# Mestalla Entradas — WordPress local
+# Mestalla Entradas — WordPress 
 
-Tema y complemento propios para la instalación local de WordPress en XAMPP.
 
 ## Ejecutar en local
 
